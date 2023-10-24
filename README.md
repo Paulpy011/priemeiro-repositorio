@@ -1,2 +1,4 @@
-# priemeiro-repositorio
-defasio dio 
+#priemeiro-repositorio
+defasio dio sobre Git/GitHub
+
+
